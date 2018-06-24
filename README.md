@@ -1,10 +1,10 @@
-# Bootstrap blog post template - left sidebar
+# Bootstrap blog post template - right sidebar
 
-[Bootstrap blog post template - left sidebar](https://github.com/russmaxdesign/bootstrap-blog-post-template-left) is a basic HTML template that uses the [Bootstrap](http://getbootstrap.com/)  framework. All key Bootstrap files have been included so you can begin creating layouts as needed.
+[Bootstrap blog post template - right sidebar](https://github.com/russmaxdesign/bootstrap-blog-post-template-right) is a basic HTML template that uses the [Bootstrap](http://getbootstrap.com/)  framework. All key Bootstrap files have been included so you can begin creating layouts as needed.
 
 ## File structure
 
-[Bootstrap blog post template - left sidebar](https://github.com/russmaxdesign/bootstrap-blog-post-template-left) uses the following file structure:
+[Bootstrap blog post template - right sidebar](https://github.com/russmaxdesign/bootstrap-blog-post-template-right) uses the following file structure:
 
 	assets/
 		css/
@@ -30,4 +30,4 @@
 	licence.md
 	readme.md
 
-[Bootstrap blog post template - left sidebar](https://github.com/russmaxdesign/bootstrap-blog-post-template-left) was created by [Russ Weakley](https://twitter.com/russmaxdesign), [Max Design](http://maxdesign.com.au/). Copyright 2015 Max Design. See LICENCE.md for full details.
+[Bootstrap blog post template - right sidebar](https://github.com/russmaxdesign/bootstrap-blog-post-template-right) was created by [Russ Weakley](https://twitter.com/russmaxdesign), [Max Design](http://maxdesign.com.au/). Copyright 2015 Max Design. See LICENCE.md for full details.
